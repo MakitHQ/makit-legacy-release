@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Replicator は **Makit** になりました。このリポジトリには旧 Replicator の
+> リリースだけが残っています。Makit は [makit.build](https://makit.build) または
+> [Makit のリリース](https://github.com/MakitHQ/makit-release/releases/latest)からダウンロードしてください。
+
 <p align="center">
   <img src="./assets/icon.png" alt="Replicator app icon" width="112" height="112">
 </p>
@@ -19,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/XONAR-LABS/replicator-release/releases/latest">最新の macOS リリースをダウンロード</a>
+  <a href="https://github.com/MakitHQ/makit-legacy-release/releases/latest">最新の macOS リリースをダウンロード</a>
 </p>
 
 > [!IMPORTANT]
@@ -64,7 +69,7 @@ Replicator は単なる作図ツールではありません。「これを作り
 
 ## インストール
 
-1. [最新リリース](https://github.com/XONAR-LABS/replicator-release/releases/latest)を開きます。
+1. [最新リリース](https://github.com/MakitHQ/makit-legacy-release/releases/latest)を開きます。
 2. `.dmg` ファイルをダウンロードします。
 3. ディスクイメージを開き、**Replicator** を **Applications** にドラッグします。
 4. Replicator を起動し、プロジェクトフォルダを作成または開きます。
@@ -91,7 +96,7 @@ AI モデルへのリクエストは、ユーザーが設定したモデルプ�
 ## サポート
 
 不具合やリリースに関する問題がある場合は、
-[Replicator release repository](https://github.com/XONAR-LABS/replicator-release/issues)
+[Replicator release repository](https://github.com/MakitHQ/makit-legacy-release/issues)
 に issue を作成してください。アプリのバージョン、macOS のバージョン、実行しようとしていた操作、関連するエラーメッセージを含めてください。
 
 ## リリースノート

@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Replicator is now **Makit**. This repository only holds the old Replicator
+> releases. Download Makit from [makit.build](https://makit.build) or the
+> [Makit releases](https://github.com/MakitHQ/makit-release/releases/latest).
+
 <p align="center">
   <img src="./assets/icon.png" alt="Replicator app icon" width="112" height="112">
 </p>
@@ -19,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/XONAR-LABS/replicator-release/releases/latest">Download the latest macOS release</a>
+  <a href="https://github.com/MakitHQ/makit-legacy-release/releases/latest">Download the latest macOS release</a>
 </p>
 
 > [!IMPORTANT]
@@ -75,7 +80,7 @@ Replicator is not just a drawing tool. It helps with the practical work between
 ## Install
 
 1. Open the
-   [latest release](https://github.com/XONAR-LABS/replicator-release/releases/latest).
+   [latest release](https://github.com/MakitHQ/makit-legacy-release/releases/latest).
 2. Download the `.dmg` asset.
 3. Open the disk image and drag **Replicator** into **Applications**.
 4. Launch Replicator and create or open a project folder.
@@ -108,7 +113,7 @@ AI model requests are sent to the model provider you configure.
 ## Support
 
 Found a bug or need help with a release? Open an issue in the
-[Replicator release repository](https://github.com/XONAR-LABS/replicator-release/issues)
+[Replicator release repository](https://github.com/MakitHQ/makit-legacy-release/issues)
 with your app version, macOS version, what you were trying to do, and any
 relevant error message.
 
